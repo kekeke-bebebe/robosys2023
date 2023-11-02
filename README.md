@@ -10,7 +10,6 @@
 ## テスト環境
 * Ubuntu
 
-@ 2023 Keisuke Abe
-
 ## 著作権・ライセンス
 
+@ 2023 Keisuke Abe
